@@ -1,0 +1,98 @@
+[
+  {
+    "id": "863a1bc1-573d-4523-b170-452d01a683c7",
+    "data": [
+      {
+        "text": "I’m wondering if you can answer a question for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4461891e-7c2f-48be-80bf-747300179493",
+    "data": [
+      {
+        "text": "Could you answer a question for me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74dc2ee6-8f4c-498b-95b5-bc96071f48de",
+    "data": [
+      {
+        "text": "Can I ask you a question?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a3655205-7aa4-4998-a298-286a443ab20e",
+    "data": [
+      {
+        "text": "I need question answered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17b26574-7b3c-45ed-bc82-f7cf9b945f74",
+    "data": [
+      {
+        "text": "Hey can I ask you a question?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9606696-799e-4994-b91b-53006b64a00c",
+    "data": [
+      {
+        "text": "Can you answer a question for me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4f9364a-4f3a-4439-9f86-947dd5974719",
+    "data": [
+      {
+        "text": "Could you help me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0df557be-2484-4c99-9aa9-68b1a0577beb",
+    "data": [
+      {
+        "text": "Can you help me with something?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

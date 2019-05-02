@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ac0ac475-1ea3-46cb-b0ba-1151b2517625",
+    "data": [
+      {
+        "text": "How good are you at your job?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548360494
+  },
+  {
+    "id": "8b109579-1f3e-49d3-9c6f-897a2dcc2207",
+    "data": [
+      {
+        "text": "Are you a good bot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548360494
+  },
+  {
+    "id": "18b7e5f5-c851-4a7a-9c8e-dd8653313453",
+    "data": [
+      {
+        "text": "Are you good at your job?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

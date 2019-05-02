@@ -1,0 +1,234 @@
+[
+  {
+    "id": "d92db684-8b5d-4c24-88fa-e75598923a3c",
+    "data": [
+      {
+        "text": "Whoa! Awesome!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a27847d-c8ea-4bea-8cf0-61d072173c1b",
+    "data": [
+      {
+        "text": "woah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1548635035
+  },
+  {
+    "id": "956fc946-c246-4522-8063-03286ac02eba",
+    "data": [
+      {
+        "text": "wow!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1548635035
+  },
+  {
+    "id": "e4966df2-38b4-4d52-b678-9e3905242a16",
+    "data": [
+      {
+        "text": "Cool!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ec8f979-c7c3-4410-bd0f-26ecd6231ff6",
+    "data": [
+      {
+        "text": "That\u0027s interesting!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d74349a2-41cb-4f02-8471-1ed4e5bde365",
+    "data": [
+      {
+        "text": "Fascinating!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9cf57647-e2ab-42da-8c36-7186168a4a1b",
+    "data": [
+      {
+        "text": "Awesome!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a39fc1c6-b6c0-4bc2-a5fe-82b0ccb3a05f",
+    "data": [
+      {
+        "text": "woah that\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "super",
+        "alias": "degreeAdverb",
+        "meta": "@degreeAdverb",
+        "userDefined": true
+      },
+      {
+        "text": " cool!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548635035
+  },
+  {
+    "id": "cd5001c6-8cf0-4a8d-9460-9677def65f5b",
+    "data": [
+      {
+        "text": "wow that\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "really",
+        "alias": "degreeAdverb",
+        "meta": "@degreeAdverb",
+        "userDefined": false
+      },
+      {
+        "text": " cool",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548635035
+  },
+  {
+    "id": "6a61f63d-d5dc-422a-b3e4-597018322cc5",
+    "data": [
+      {
+        "text": "wow that\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "so",
+        "alias": "degreeAdverb",
+        "meta": "@degreeAdverb",
+        "userDefined": false
+      },
+      {
+        "text": " cool!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548635035
+  },
+  {
+    "id": "a3f73bb2-9a38-49ab-b625-12b663cd4df0",
+    "data": [
+      {
+        "text": "woah that\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "so",
+        "alias": "degreeAdverb",
+        "meta": "@degreeAdverb",
+        "userDefined": false
+      },
+      {
+        "text": " cool!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548635035
+  },
+  {
+    "id": "b4696849-5848-407f-a416-f0ec725e4bd6",
+    "data": [
+      {
+        "text": "wow that\u0027s cool",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548635035
+  },
+  {
+    "id": "ceadcb8b-55cb-4158-8f83-bc0a9d17233c",
+    "data": [
+      {
+        "text": "woah that\u0027s cool",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548635035
+  },
+  {
+    "id": "327eb3de-a40a-4f35-b11f-621b5420beab",
+    "data": [
+      {
+        "text": "Wow wow!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548635035
+  },
+  {
+    "id": "fdb58ae0-7cfe-4c91-b44c-41b323c5424b",
+    "data": [
+      {
+        "text": "WOWOW",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548635035
+  },
+  {
+    "id": "8a1d5069-b9d6-4ea7-8ff7-310ef38ea459",
+    "data": [
+      {
+        "text": "oh wow",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548635035
+  }
+]

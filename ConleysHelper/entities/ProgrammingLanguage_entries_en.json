@@ -1,0 +1,34 @@
+[
+  {
+    "value": "JavaScript",
+    "synonyms": [
+      "js",
+      "ECMAScript"
+    ]
+  },
+  {
+    "value": "Python",
+    "synonyms": [
+      "Python",
+      "py"
+    ]
+  },
+  {
+    "value": "javascript",
+    "synonyms": [
+      "javascript"
+    ]
+  },
+  {
+    "value": "java",
+    "synonyms": [
+      "java"
+    ]
+  },
+  {
+    "value": "PHP",
+    "synonyms": [
+      "PHP"
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "14d8c3f0-70ca-4826-b54e-357f0d97076c",
+    "data": [
+      {
+        "text": "Are you AI?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548521369
+  },
+  {
+    "id": "45bfd0a1-a4af-4738-adbc-3573a965906c",
+    "data": [
+      {
+        "text": "Are you an AI?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548521369
+  },
+  {
+    "id": "cccb33b5-ef61-4bb7-a596-1d2a02470a75",
+    "data": [
+      {
+        "text": "Are you a robot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548521369
+  },
+  {
+    "id": "a4539acf-2842-4f69-aac2-c923a0a740d5",
+    "data": [
+      {
+        "text": "Are you a bot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548521369
+  },
+  {
+    "id": "31aca6e7-d59a-48b2-b226-e0e2869b0ffb",
+    "data": [
+      {
+        "text": "what are you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548521369
+  },
+  {
+    "id": "5c959cad-ed4b-4e36-a405-f55a5d39528b",
+    "data": [
+      {
+        "text": "Who are you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548521369
+  }
+]

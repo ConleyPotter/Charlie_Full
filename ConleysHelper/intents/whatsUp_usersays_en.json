@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1937267a-6025-4993-9586-af6beb86999b",
+    "data": [
+      {
+        "text": "Thanks ",
+        "userDefined": false
+      },
+      {
+        "text": "Charlie",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": ", what\u0027s up?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88ca6160-6fe9-47f3-92ca-0dffe17d4d2a",
+    "data": [
+      {
+        "text": "what are you up to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f738e2ff-9c53-4975-89d1-4ba01bc5bc77",
+    "data": [
+      {
+        "text": "what are you doing right now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548518311
+  },
+  {
+    "id": "4a9bdf59-7571-4cd2-a94a-6e8aa0b06ca1",
+    "data": [
+      {
+        "text": "what\u0027s up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548518311
+  },
+  {
+    "id": "660d9e7c-1ca2-4f70-b982-79a302175b51",
+    "data": [
+      {
+        "text": "what are you doing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548518311
+  }
+]

@@ -1,0 +1,330 @@
+[
+  {
+    "id": "5bcccb8f-2cdc-467f-91c0-29c3ed6d1fd9",
+    "data": [
+      {
+        "text": "You\u0027re really ",
+        "userDefined": false
+      },
+      {
+        "text": "cute",
+        "alias": "complimentaryAdjective",
+        "meta": "@complimentaryAdjective",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d0570963-f314-4d89-83d7-d1f9a7e78d83",
+    "data": [
+      {
+        "text": "you\u0027re so ",
+        "userDefined": false
+      },
+      {
+        "text": "cute",
+        "alias": "complimentaryAdjective",
+        "meta": "@complimentaryAdjective",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "6a8184be-f1c6-40ec-872c-4bd3a1239e48",
+    "data": [
+      {
+        "text": "that\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "great",
+        "alias": "complimentaryAdjective",
+        "meta": "@complimentaryAdjective",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548634845
+  },
+  {
+    "id": "215769ac-36c0-4996-85ec-7b7682699066",
+    "data": [
+      {
+        "text": "Charlie",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " you\u0027re so ",
+        "userDefined": false
+      },
+      {
+        "text": "cute",
+        "alias": "complimentaryAdjective",
+        "meta": "@complimentaryAdjective",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "997685cd-cd17-44bf-aeab-cb6c47a22e95",
+    "data": [
+      {
+        "text": "You are ",
+        "userDefined": false
+      },
+      {
+        "text": "smart",
+        "alias": "complimentaryAdjective",
+        "meta": "@complimentaryAdjective",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "343d2500-79e1-4ba0-b9a3-6f876865c0fd",
+    "data": [
+      {
+        "text": "Wow you\u0027re so ",
+        "userDefined": false
+      },
+      {
+        "text": "cute",
+        "alias": "complimentaryAdjective",
+        "meta": "@complimentaryAdjective",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8393a2f1-1e67-43e1-91dc-8e465aac8a59",
+    "data": [
+      {
+        "text": "Wow you\u0027re ",
+        "userDefined": false
+      },
+      {
+        "text": "smart",
+        "alias": "complimentaryAdjective",
+        "meta": "@complimentaryAdjective",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c9377785-35ea-4530-baa6-7f695d760a08",
+    "data": [
+      {
+        "text": "You\u0027re great.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40a83c55-dc55-44ce-98d7-a30099ad5d2c",
+    "data": [
+      {
+        "text": "You\u0027re really ",
+        "userDefined": false
+      },
+      {
+        "text": "smart",
+        "alias": "complimentaryAdjective",
+        "meta": "@complimentaryAdjective",
+        "userDefined": true
+      },
+      {
+        "text": " for such a young bot.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ddd3a836-1b84-40c7-9554-3dfcc52fe650",
+    "data": [
+      {
+        "text": "You\u0027re very ",
+        "userDefined": false
+      },
+      {
+        "text": "kind",
+        "alias": "complimentaryAdjective",
+        "meta": "@complimentaryAdjective",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "62ea7916-c9fb-4cf6-a25e-23add7f809fb",
+    "data": [
+      {
+        "text": "I\u0027d say more than a little ",
+        "userDefined": false
+      },
+      {
+        "text": "considerate",
+        "alias": "complimentaryAdjective",
+        "meta": "@complimentaryAdjective",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6784d973-ece2-42c2-aca7-7499ab52fe9a",
+    "data": [
+      {
+        "text": "Are you ",
+        "userDefined": false
+      },
+      {
+        "text": "strong",
+        "alias": "complimentaryAdjective",
+        "meta": "@complimentaryAdjective",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d4eac21f-0987-45fa-816b-8db9529d4113",
+    "data": [
+      {
+        "text": "Haha you’re pretty ",
+        "userDefined": false
+      },
+      {
+        "text": "funny",
+        "alias": "complimentaryAdjective",
+        "meta": "@complimentaryAdjective",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "922794ee-05c1-43fe-a774-503c2090395f",
+    "data": [
+      {
+        "text": "You’re pretty ",
+        "userDefined": false
+      },
+      {
+        "text": "cute",
+        "alias": "complimentaryAdjective",
+        "meta": "@complimentaryAdjective",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "99394f81-9ba5-40fc-950d-decad1283c38",
+    "data": [
+      {
+        "text": "That’s ",
+        "userDefined": false
+      },
+      {
+        "text": "cute",
+        "alias": "complimentaryAdjective",
+        "meta": "@complimentaryAdjective",
+        "userDefined": true
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51678f21-0b90-4878-b25d-eb44884f1178",
+    "data": [
+      {
+        "text": "Wow you’re so ",
+        "userDefined": false
+      },
+      {
+        "text": "funny",
+        "alias": "complimentaryAdjective",
+        "meta": "@complimentaryAdjective",
+        "userDefined": true
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

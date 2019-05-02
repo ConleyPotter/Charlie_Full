@@ -1,0 +1,28 @@
+{
+  "id": "7eb08824-6161-4cd0-ac77-2a579d71164f",
+  "name": "askKnowledgeOfAnimals",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I do have a limited knowledge of a few animals, you could ask me: \n\n- Do animals cry?\n- Do woodpeckers get headaches?\n- Why do birds fly in a V formation?\n- Does each bird have one song?\n- What\u0027s the difference between tusks and teeth?\n- What\u0027s the difference between horns and antlers?\n- How do chicks break out of their shells?\n- Are the stripes of any two zebras alike?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548695200,
+  "fallbackIntent": false,
+  "events": []
+}

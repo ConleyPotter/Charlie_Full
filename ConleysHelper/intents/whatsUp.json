@@ -1,0 +1,39 @@
+{
+  "id": "ad9b45e0-0b01-48f6-a86d-43a6516694e5",
+  "name": "whatsUp",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d01010a6-04ad-4583-8fd1-89dcb93f3952",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Not much, just sitting here listening to you, and learning a bit.",
+            "Nothing really, just listening, learning, and talking to people!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548524809,
+  "fallbackIntent": false,
+  "events": []
+}

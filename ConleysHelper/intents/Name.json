@@ -1,0 +1,31 @@
+{
+  "id": "30a9b2f2-0d13-48cd-9ecf-fd09018767ea",
+  "name": "Name",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "My creator named me Charles, but I like to be called Charlie!",
+            "You can call me Charlie"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548519627,
+  "fallbackIntent": false,
+  "events": []
+}

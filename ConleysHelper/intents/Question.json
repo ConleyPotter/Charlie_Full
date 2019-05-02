@@ -1,0 +1,32 @@
+{
+  "id": "6d5450a5-c35e-4454-8358-4aa0ac3d1dbb",
+  "name": "Question",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Sure, what\u0027s your question?",
+            "Sure, how can I help?",
+            "No problem, what\u0027s your question?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548360401,
+  "fallbackIntent": false,
+  "events": []
+}

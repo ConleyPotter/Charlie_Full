@@ -1,0 +1,42 @@
+{
+  "id": "db0c3d1b-34e7-418e-bb29-a865698b4418",
+  "parentId": "c7ae3cbc-4175-4603-b963-ae4136487abd",
+  "rootParentId": "c7ae3cbc-4175-4603-b963-ae4136487abd",
+  "name": "Languages - custom",
+  "auto": true,
+  "contexts": [
+    "Languages-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Languages.Languages-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "91f3e963-54d1-4cc4-a097-42e5fa2ecec3",
+          "required": false,
+          "dataType": "@sys.duration",
+          "name": "duration",
+          "value": "$duration",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I can\u0027t believe you\u0027ve known #Languages-followup.language for $duration!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548432854,
+  "fallbackIntent": false,
+  "events": []
+}

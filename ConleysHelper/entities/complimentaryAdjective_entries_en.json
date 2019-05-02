@@ -1,0 +1,103 @@
+[
+  {
+    "value": "funny",
+    "synonyms": [
+      "funny",
+      "hilarious",
+      "goofy",
+      "witty"
+    ]
+  },
+  {
+    "value": "cute",
+    "synonyms": [
+      "cute"
+    ]
+  },
+  {
+    "value": "considerate",
+    "synonyms": [
+      "considerate",
+      "kind",
+      "thoughtful"
+    ]
+  },
+  {
+    "value": "courteous",
+    "synonyms": [
+      "courteous",
+      "polite"
+    ]
+  },
+  {
+    "value": "empathetic",
+    "synonyms": [
+      "empathetic",
+      "understanding"
+    ]
+  },
+  {
+    "value": "exuberant",
+    "synonyms": [
+      "exuberant",
+      "energetic"
+    ]
+  },
+  {
+    "value": "generous",
+    "synonyms": [
+      "generous",
+      "giving"
+    ]
+  },
+  {
+    "value": "practical",
+    "synonyms": [
+      "practical",
+      "pragmatic",
+      "functional",
+      "realisitic"
+    ]
+  },
+  {
+    "value": "reliable",
+    "synonyms": [
+      "reliable",
+      "trustworthy"
+    ]
+  },
+  {
+    "value": "sincere",
+    "synonyms": [
+      "sincere",
+      "open",
+      "genuine"
+    ]
+  },
+  {
+    "value": "sympathetic",
+    "synonyms": [
+      "sympathetic",
+      "considerate",
+      "caring"
+    ]
+  },
+  {
+    "value": "smart",
+    "synonyms": [
+      "smart"
+    ]
+  },
+  {
+    "value": "good",
+    "synonyms": [
+      "good"
+    ]
+  },
+  {
+    "value": "great",
+    "synonyms": [
+      "great"
+    ]
+  }
+]

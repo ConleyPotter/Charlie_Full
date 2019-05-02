@@ -1,0 +1,119 @@
+[
+  {
+    "id": "9734fa3a-fa6a-4c42-bdd9-d41b47868c79",
+    "data": [
+      {
+        "text": "Good night ",
+        "userDefined": false
+      },
+      {
+        "text": "charlie",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548694193
+  },
+  {
+    "id": "1fef6682-0a93-47f2-8aa9-de93559e7554",
+    "data": [
+      {
+        "text": "Have a good morning!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548522215
+  },
+  {
+    "id": "7c8792c3-c11b-4315-998f-dc7a22de8a35",
+    "data": [
+      {
+        "text": "Have a good day!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548522215
+  },
+  {
+    "id": "949fa03f-cd59-4e8f-af2b-6a63d27334f4",
+    "data": [
+      {
+        "text": "Have you a good night!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548522215
+  },
+  {
+    "id": "0a5dbb82-723e-4e5b-a5ff-5118e692dce3",
+    "data": [
+      {
+        "text": "I\u0027ll see you later!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548522215
+  },
+  {
+    "id": "3a92f910-71ed-4457-a262-9f558677009a",
+    "data": [
+      {
+        "text": "good night!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548522215
+  },
+  {
+    "id": "561ec8c8-3241-4f5a-af57-545942909b76",
+    "data": [
+      {
+        "text": "see you later",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548522215
+  },
+  {
+    "id": "83fe2faf-6869-4d2c-b081-030140a3d427",
+    "data": [
+      {
+        "text": "goodbye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548522215
+  },
+  {
+    "id": "01e35186-8027-4fd3-9e61-1a963f4849f9",
+    "data": [
+      {
+        "text": "I\u0027ll talk to you later",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548522215
+  }
+]

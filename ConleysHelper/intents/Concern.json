@@ -1,0 +1,32 @@
+{
+  "id": "8f4b7898-3da2-4cfb-92b3-24ec34fccb64",
+  "name": "Concern",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I am okay",
+            "I\u0027m breathing at least",
+            "There is data flowing through my veins!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548437490,
+  "fallbackIntent": false,
+  "events": []
+}

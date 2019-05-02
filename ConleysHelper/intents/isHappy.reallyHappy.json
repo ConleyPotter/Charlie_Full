@@ -1,0 +1,57 @@
+{
+  "id": "d78608ed-ab64-4c6c-9b48-01535cb2a183",
+  "parentId": "7b5428ec-3407-4703-8d2b-dce284aec74e",
+  "rootParentId": "7b5428ec-3407-4703-8d2b-dce284aec74e",
+  "name": "isHappy.reallyHappy",
+  "auto": true,
+  "contexts": [
+    "secondcompliment",
+    "isHappy-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "isHappy.reallyHappy",
+      "affectedContexts": [
+        {
+          "name": "isHappy-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "eecd8655-2b42-4ca6-a75d-5ba44d7925d4",
+          "required": false,
+          "dataType": "@complimentaryAdjective",
+          "name": "complimentaryAdjective",
+          "value": "$complimentaryAdjective",
+          "isList": false
+        },
+        {
+          "id": "b8dd3424-bd97-40e1-a455-152bb7ce7c8c",
+          "required": false,
+          "dataType": "@degreeAdverb",
+          "name": "degreeAdverb",
+          "value": "$degreeAdverb",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Oh stop haha! YOU are $degreeAdverb $complimentaryAdjective"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548525408,
+  "fallbackIntent": false,
+  "events": []
+}

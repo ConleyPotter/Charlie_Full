@@ -1,0 +1,38 @@
+{
+  "id": "a4700fd7-3772-4697-9839-4701821e608a",
+  "name": "userIsImpressed",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2e53c9ac-a117-4de8-949d-3d3f2a5148f7",
+          "required": false,
+          "dataType": "@degreeAdverb",
+          "name": "degreeAdverb",
+          "value": "$degreeAdverb",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I know, right? :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548681967,
+  "fallbackIntent": false,
+  "events": []
+}

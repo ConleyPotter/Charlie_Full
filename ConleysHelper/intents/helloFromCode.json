@@ -1,0 +1,28 @@
+{
+  "id": "18997a56-ad84-4cd4-9e0d-c76baf60d6bc",
+  "name": "helloFromCode",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548721782,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "68667341-b861-40e0-a656-808756d301d7",
+  "name": "askedCreator",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Conley Potter is my boss and creator. He is training me how to have good conversations with people in English."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548537807,
+  "fallbackIntent": false,
+  "events": []
+}

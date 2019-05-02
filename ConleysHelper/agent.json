@@ -1,0 +1,61 @@
+{
+  "description": "",
+  "language": "en",
+  "activeAssistantAgents": [],
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": false,
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "project": "newagent-771b1",
+    "welcomeIntentSignInRequired": true,
+    "startIntents": [
+      {
+        "intentId": "68667341-b861-40e0-a656-808756d301d7",
+        "signInRequired": true
+      },
+      {
+        "intentId": "ad9b45e0-0b01-48f6-a86d-43a6516694e5",
+        "signInRequired": true
+      },
+      {
+        "intentId": "975e1043-0cb6-4592-8bf4-b7c2f72f89ef",
+        "signInRequired": true
+      }
+    ],
+    "systemIntents": [],
+    "endIntentIds": [
+      "45f8d935-94b3-4df1-b8d1-e2b49dcc03b7"
+    ],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": true,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "America/Chicago",
+  "webhook": {
+    "url": "https://us-central1-newagent-771b1.cloudfunctions.net/dialogflowFirebaseFulfillment",
+    "headers": {
+      "": ""
+    },
+    "available": true,
+    "useForDomains": true,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": true
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v2beta1",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [
+    "projects/newagent-771b1/knowledgeBases/MTQ5MDU1Nzc3NjA0NTY5NjYxNDQ"
+  ],
+  "knowledgeServiceConfidenceAdjustment": 0.2,
+  "dialogBuilderMode": false
+}

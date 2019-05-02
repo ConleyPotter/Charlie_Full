@@ -1,0 +1,402 @@
+[
+  {
+    "id": "42693ece-1312-4a8c-9793-807598fbad71",
+    "data": [
+      {
+        "text": "Wow, ",
+        "userDefined": false
+      },
+      {
+        "text": "really",
+        "alias": "degreeAdverb",
+        "meta": "@degreeAdverb",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cute",
+        "alias": "complimentaryAdjective",
+        "meta": "@complimentaryAdjective",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "fa3fdf2f-0cf4-4b35-9587-818f11814021",
+    "data": [
+      {
+        "text": "Wow, ",
+        "userDefined": false
+      },
+      {
+        "text": "really",
+        "alias": "degreeAdverb",
+        "meta": "@degreeAdverb",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "alias": "complimentaryAdjective",
+        "meta": "@complimentaryAdjective",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84db84b6-9507-4c9f-85f7-2782b52ea6ed",
+    "data": [
+      {
+        "text": "soo",
+        "alias": "degreeAdverb",
+        "meta": "@degreeAdverb",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cute",
+        "alias": "complimentaryAdjective",
+        "meta": "@complimentaryAdjective",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548525193
+  },
+  {
+    "id": "8ec94747-dae2-4152-9517-ac14ed406f59",
+    "data": [
+      {
+        "text": "sooooo",
+        "alias": "degreeAdverb",
+        "meta": "@degreeAdverb",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cute",
+        "alias": "complimentaryAdjective",
+        "meta": "@complimentaryAdjective",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548525193
+  },
+  {
+    "id": "37265422-2b7a-4bef-8e68-e506cb15fdf0",
+    "data": [
+      {
+        "text": "so",
+        "alias": "degreeAdverb",
+        "meta": "@degreeAdverb",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cute",
+        "alias": "complimentaryAdjective",
+        "meta": "@complimentaryAdjective",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548525193
+  },
+  {
+    "id": "c2700283-4829-41fb-9e4e-88c0726f985c",
+    "data": [
+      {
+        "text": "Wow! you ",
+        "userDefined": false
+      },
+      {
+        "text": "really",
+        "alias": "degreeAdverb",
+        "meta": "@degreeAdverb",
+        "userDefined": false
+      },
+      {
+        "text": " are ",
+        "userDefined": false
+      },
+      {
+        "text": "smart",
+        "alias": "complimentaryAdjective",
+        "meta": "@complimentaryAdjective",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a78715c9-d464-48a6-a203-a719886aae2d",
+    "data": [
+      {
+        "text": "Oh wow! You\u0027re ",
+        "userDefined": false
+      },
+      {
+        "text": "really",
+        "alias": "degreeAdverb",
+        "meta": "@degreeAdverb",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "smart",
+        "alias": "complimentaryAdjective",
+        "meta": "@complimentaryAdjective",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d9ced590-4020-4a82-b959-491e68783ee3",
+    "data": [
+      {
+        "text": "You ",
+        "userDefined": false
+      },
+      {
+        "text": "truly",
+        "alias": "degreeAdverb",
+        "meta": "@degreeAdverb",
+        "userDefined": true
+      },
+      {
+        "text": " are ",
+        "userDefined": false
+      },
+      {
+        "text": "smart",
+        "alias": "complimentaryAdjective",
+        "meta": "@complimentaryAdjective",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548437304
+  },
+  {
+    "id": "cd0f1d69-7e3e-408f-bbba-40c49c484fa6",
+    "data": [
+      {
+        "text": "Wow you\u0027re ",
+        "userDefined": false
+      },
+      {
+        "text": "so",
+        "alias": "degreeAdverb",
+        "meta": "@degreeAdverb",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cute",
+        "alias": "complimentaryAdjective",
+        "meta": "@complimentaryAdjective",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548437304
+  },
+  {
+    "id": "d50bd0de-38aa-4415-8ad6-8c4810f4368f",
+    "data": [
+      {
+        "text": "You are ",
+        "userDefined": false
+      },
+      {
+        "text": "very",
+        "alias": "degreeAdverb",
+        "meta": "@degreeAdverb",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "alias": "complimentaryAdjective",
+        "meta": "@complimentaryAdjective",
+        "userDefined": true
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548436982
+  },
+  {
+    "id": "2b014557-c0c5-494a-875d-c979844519d0",
+    "data": [
+      {
+        "text": "You are ",
+        "userDefined": false
+      },
+      {
+        "text": "really",
+        "alias": "degreeAdverb",
+        "meta": "@degreeAdverb",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "smart",
+        "alias": "complimentaryAdjective",
+        "meta": "@complimentaryAdjective",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548436982
+  },
+  {
+    "id": "be5eecf2-a76c-4583-b016-c4bd0efdda43",
+    "data": [
+      {
+        "text": "You really are ",
+        "userDefined": false
+      },
+      {
+        "text": "so",
+        "alias": "degreeAdverb",
+        "meta": "@degreeAdverb",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "smart",
+        "alias": "complimentaryAdjective",
+        "meta": "@complimentaryAdjective",
+        "userDefined": true
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1548436745
+  },
+  {
+    "id": "3376d13f-739c-4e9c-aa9d-953eca3800b3",
+    "data": [
+      {
+        "text": "Wow! You really are ",
+        "userDefined": false
+      },
+      {
+        "text": "so",
+        "alias": "degreeAdverb",
+        "meta": "@degreeAdverb",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cute",
+        "alias": "complimentaryAdjective",
+        "meta": "@complimentaryAdjective",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548436745
+  }
+]

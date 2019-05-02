@@ -1,0 +1,120 @@
+[
+  {
+    "id": "b83fa219-ba1f-46b1-8e00-d62132a7ac00",
+    "data": [
+      {
+        "text": "thanks ",
+        "userDefined": false
+      },
+      {
+        "text": "Charlie",
+        "alias": "selfName",
+        "meta": "@selfName",
+        "userDefined": true
+      },
+      {
+        "text": " how are you doing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a00eb2ea-d2c2-4df6-816c-50dba5b3fa0b",
+    "data": [
+      {
+        "text": "How are you doing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "f73545f9-7712-4e6f-9793-a0ec65138e8c",
+    "data": [
+      {
+        "text": "How are you today?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a88e04c2-16a6-4084-913d-22755ce6852d",
+    "data": [
+      {
+        "text": "Hey what’s going on?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec08d073-433f-4cf5-a6de-dd90e2c5e1ff",
+    "data": [
+      {
+        "text": "How you doing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "44042abc-98c6-4d0a-b5fb-d88c218cb931",
+    "data": [
+      {
+        "text": "How are you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1548359473
+  },
+  {
+    "id": "c00df4d9-0806-4035-9baf-fe30e5d8f540",
+    "data": [
+      {
+        "text": "What\u0027s up?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 1548369408
+  },
+  {
+    "id": "1d0813db-e136-408d-9e30-76ab9b0b8193",
+    "data": [
+      {
+        "text": "Are you okay?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548359473
+  },
+  {
+    "id": "80adedc0-d5d1-4c3f-a847-3397f37454b4",
+    "data": [
+      {
+        "text": "How are you feeling?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548359473
+  }
+]

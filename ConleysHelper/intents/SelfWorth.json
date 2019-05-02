@@ -1,0 +1,28 @@
+{
+  "id": "3d111177-831f-402c-b0ec-c09009f3cee1",
+  "name": "SelfWorth",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I am very good at my job!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548360494,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,234 @@
+[
+  {
+    "id": "3d05dca9-9a06-4f55-bc2d-c2d6811bc6d5",
+    "data": [
+      {
+        "text": "I know ",
+        "userDefined": false
+      },
+      {
+        "text": "French",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "d9dd1103-e1c3-4c58-adb8-bb64b33aea1c",
+    "data": [
+      {
+        "text": "I know ",
+        "userDefined": false
+      },
+      {
+        "text": "Java",
+        "alias": "ProgrammingLanguage",
+        "meta": "@ProgrammingLanguage",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "81900fca-e7b1-4217-82ec-13e84dc76150",
+    "data": [
+      {
+        "text": "I know ",
+        "userDefined": false
+      },
+      {
+        "text": "Python",
+        "alias": "ProgrammingLanguage",
+        "meta": "@ProgrammingLanguage",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c358b7b1-e267-4f4e-9837-50c204ed51df",
+    "data": [
+      {
+        "text": "I know ",
+        "userDefined": false
+      },
+      {
+        "text": "PHP",
+        "alias": "ProgrammingLanguage",
+        "meta": "@ProgrammingLanguage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1548369846
+  },
+  {
+    "id": "34235310-7f02-47e7-becd-2aa3ff487a58",
+    "data": [
+      {
+        "text": "I know ",
+        "userDefined": false
+      },
+      {
+        "text": "javascript",
+        "alias": "ProgrammingLanguage",
+        "meta": "@ProgrammingLanguage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1548361023
+  },
+  {
+    "id": "d9e1fd78-51ec-4d5d-837b-0bd1f0707be3",
+    "data": [
+      {
+        "text": "I know how to code in ",
+        "userDefined": false
+      },
+      {
+        "text": "py",
+        "alias": "ProgrammingLanguage",
+        "meta": "@ProgrammingLanguage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548369846
+  },
+  {
+    "id": "65371b09-e95e-4e68-969c-0f9186a85339",
+    "data": [
+      {
+        "text": "I know how to code in ",
+        "userDefined": false
+      },
+      {
+        "text": "java",
+        "alias": "ProgrammingLanguage",
+        "meta": "@ProgrammingLanguage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548361023
+  },
+  {
+    "id": "1f84121e-cf76-45fe-b19b-8569b59a3ab5",
+    "data": [
+      {
+        "text": "I know how to speak ",
+        "userDefined": false
+      },
+      {
+        "text": "French",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1becc5b-5df6-48ea-9e4a-78d714348b46",
+    "data": [
+      {
+        "text": "I can speak ",
+        "userDefined": false
+      },
+      {
+        "text": "french",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "efc207d2-9782-43e0-9977-f1609d03fb4a",
+    "data": [
+      {
+        "text": "I know how to write in ",
+        "userDefined": false
+      },
+      {
+        "text": "German",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548358220
+  },
+  {
+    "id": "4d91ef9b-eda6-452d-a6d9-ae73a070214d",
+    "data": [
+      {
+        "text": "I know ",
+        "userDefined": false
+      },
+      {
+        "text": "Spanish",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548358220
+  },
+  {
+    "id": "73f1504c-05ed-45ec-a2ba-a3bd6e87ad2b",
+    "data": [
+      {
+        "text": "I know ",
+        "userDefined": false
+      },
+      {
+        "text": "English",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548358220
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "id": "62ac62a2-be3e-40e6-86c5-5748397f1711",
+  "name": "userShowsAppreciation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "37f833f4-e8c0-4ad0-b4e7-3c571bb45617",
+          "required": false,
+          "dataType": "@degreeAdverb",
+          "name": "degreeAdverb",
+          "value": "$degreeAdverb",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "No problem! And thank you for helping me learn!",
+            "No problem :)",
+            "You\u0027re welcome!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548633921,
+  "fallbackIntent": false,
+  "events": []
+}

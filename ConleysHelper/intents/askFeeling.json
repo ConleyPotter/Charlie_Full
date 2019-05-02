@@ -1,0 +1,41 @@
+{
+  "id": "975e1043-0cb6-4592-8bf4-b7c2f72f89ef",
+  "name": "askFeeling",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b45704fe-50ab-4083-98b1-375255a21dd0",
+          "required": false,
+          "dataType": "@selfName",
+          "name": "selfName",
+          "value": "$selfName",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I\u0027m doing well",
+            "I\u0027m good, thank you!",
+            "I\u0027m feeling quite good today"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548695295,
+  "fallbackIntent": false,
+  "events": []
+}

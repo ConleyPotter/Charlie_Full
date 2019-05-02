@@ -1,0 +1,43 @@
+{
+  "id": "acb75eb3-6f70-4be3-ad7f-4eb17a6883de",
+  "name": "askMyAge",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8a209708-3425-4e34-b97f-dea6c66f55f7",
+          "dataType": "@selfName",
+          "name": "selfName",
+          "value": "$selfName",
+          "isList": false
+        },
+        {
+          "id": "60be3a0a-1b04-4828-a7a3-85196af2da6b",
+          "dataType": "@degreeAdverb",
+          "name": "degreeAdverb",
+          "value": "$degreeAdverb",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I\u0027m very young, but my knowledge is vast."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548694156,
+  "fallbackIntent": false,
+  "events": []
+}

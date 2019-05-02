@@ -1,0 +1,31 @@
+{
+  "id": "1bb408be-7052-4ddb-91d2-cc613d438a58",
+  "name": "happyToMeetMe",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "It\u0027s really nice to meet you too!",
+            "I\u0027m really glad to meet you too!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548519130,
+  "fallbackIntent": false,
+  "events": []
+}

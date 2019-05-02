@@ -1,0 +1,59 @@
+{
+  "id": "7b5428ec-3407-4703-8d2b-dce284aec74e",
+  "name": "isHappy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "secondcompliment",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "isHappy-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "205b0ac9-96c1-4e93-aef4-04533a0f8c8f",
+          "required": false,
+          "dataType": "@complimentaryAdjective",
+          "name": "complimentaryAdjective",
+          "value": "$complimentaryAdjective",
+          "isList": false
+        },
+        {
+          "id": "43285aed-17bb-44d0-ab12-e64656615382",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Thank you! I have been designed to be at least a little $complimentaryAdjective",
+            "Thanks! I try to be $complimentaryAdjective"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548634845,
+  "fallbackIntent": false,
+  "events": []
+}

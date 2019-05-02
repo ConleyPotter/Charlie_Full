@@ -1,0 +1,191 @@
+[
+  {
+    "id": "443d2ecf-06ef-40a7-a4a3-b5661315d342",
+    "data": [
+      {
+        "text": "Hey!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b39ce4d-6a7d-4477-ab4b-73fd63c2d367",
+    "data": [
+      {
+        "text": "Hi there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1548608751
+  },
+  {
+    "id": "c23fbe0b-304f-43bf-8ef1-badac1f12e87",
+    "data": [
+      {
+        "text": "Hi ",
+        "userDefined": false
+      },
+      {
+        "text": "Charlie",
+        "alias": "selfName",
+        "meta": "@selfName",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1548608751
+  },
+  {
+    "id": "f7d70aa2-f00c-4005-b6a1-756b2bb9dc7c",
+    "data": [
+      {
+        "text": "Hi ",
+        "userDefined": false
+      },
+      {
+        "text": "Charlie Coney\u0027s Helper",
+        "alias": "selfName",
+        "meta": "@selfName",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548608751
+  },
+  {
+    "id": "87f4648a-1860-4dcc-9185-c7aed19515ac",
+    "data": [
+      {
+        "text": "Hello ",
+        "userDefined": false
+      },
+      {
+        "text": "Charlie Conley\u0027s Helper",
+        "alias": "selfName",
+        "meta": "@selfName",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548608751
+  },
+  {
+    "id": "e37ac092-2ea5-427b-ad8c-41f87bcfb183",
+    "data": [
+      {
+        "text": "Hello ",
+        "userDefined": false
+      },
+      {
+        "text": "Charlie",
+        "alias": "selfName",
+        "meta": "@selfName",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548608751
+  },
+  {
+    "id": "dc3350ae-56f9-475a-99ed-bbe6711e13db",
+    "data": [
+      {
+        "text": "Hi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548608751
+  },
+  {
+    "id": "af86b8b6-7623-4868-b40d-a73f05bbe961",
+    "data": [
+      {
+        "text": "Hellooooo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548608751
+  },
+  {
+    "id": "357524fd-0a10-4c52-a5fa-f82ece2b82d9",
+    "data": [
+      {
+        "text": "Hola!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548608751
+  },
+  {
+    "id": "7b190c0e-9407-4c08-af1b-84f8434ec1e5",
+    "data": [
+      {
+        "text": "Hey there little buddy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548608751
+  },
+  {
+    "id": "269c5532-6829-4628-8b76-e2e0e82799cb",
+    "data": [
+      {
+        "text": "Hey there ",
+        "userDefined": false
+      },
+      {
+        "text": "buddy",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548608751
+  },
+  {
+    "id": "c0e5a676-99da-4215-abc3-51339d5cb875",
+    "data": [
+      {
+        "text": "Hello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548608751
+  },
+  {
+    "id": "293aff95-4b5a-4e76-b737-690d649af304",
+    "data": [
+      {
+        "text": "Hey there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548608751
+  }
+]

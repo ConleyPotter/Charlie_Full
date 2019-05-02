@@ -1,0 +1,40 @@
+{
+  "id": "c021b4f3-e669-434f-a823-2106f5cb6770",
+  "name": "hello",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ea80d5fa-f6c7-4d70-89d9-64cf38988ccd",
+          "required": false,
+          "dataType": "@selfName",
+          "name": "selfName",
+          "value": "$selfName",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Hello, friend!",
+            "Hi there, friend!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548608802,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,118 @@
+[
+  {
+    "id": "4d8b48a2-8f6c-449f-8200-7cbb6b0fbfdd",
+    "data": [
+      {
+        "text": "Thanks Charlie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22893bf1-ef71-4746-a615-bc73dd9fcef8",
+    "data": [
+      {
+        "text": "Thank you!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1548633911
+  },
+  {
+    "id": "acc6ad4c-bed5-4b72-a837-d48933211257",
+    "data": [
+      {
+        "text": "That\u0027s great to know, thank you!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548633911
+  },
+  {
+    "id": "c6461284-c7d3-4170-b2d7-16ce12ec9f3f",
+    "data": [
+      {
+        "text": "That\u0027s great, thank you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548633911
+  },
+  {
+    "id": "a8590bab-5f58-45d7-9300-cc7bd6df8c40",
+    "data": [
+      {
+        "text": "Thank you ",
+        "userDefined": false
+      },
+      {
+        "text": "so",
+        "alias": "degreeAdverb",
+        "meta": "@degreeAdverb",
+        "userDefined": false
+      },
+      {
+        "text": " much!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548633911
+  },
+  {
+    "id": "1566f8d7-ea6b-4492-b92b-ddbdad039c64",
+    "data": [
+      {
+        "text": "Thanks a lot!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548633911
+  },
+  {
+    "id": "6ec73955-0241-418c-8842-686477094a70",
+    "data": [
+      {
+        "text": "Thanks ",
+        "userDefined": false
+      },
+      {
+        "text": "so",
+        "alias": "degreeAdverb",
+        "meta": "@degreeAdverb",
+        "userDefined": false
+      },
+      {
+        "text": " much!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548633911
+  },
+  {
+    "id": "a38771c3-580e-429c-9be2-9ca84587e026",
+    "data": [
+      {
+        "text": "Thanks!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548633911
+  }
+]

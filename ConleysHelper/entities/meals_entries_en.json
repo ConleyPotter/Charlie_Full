@@ -1,0 +1,30 @@
+[
+  {
+    "value": "breakfast",
+    "synonyms": [
+      "breakfast",
+      "first meal"
+    ]
+  },
+  {
+    "value": "dinner",
+    "synonyms": [
+      "dinner",
+      "supper",
+      "third meal"
+    ]
+  },
+  {
+    "value": "lunch",
+    "synonyms": [
+      "lunch",
+      "second meal"
+    ]
+  },
+  {
+    "value": "brunch",
+    "synonyms": [
+      "brunch"
+    ]
+  }
+]
